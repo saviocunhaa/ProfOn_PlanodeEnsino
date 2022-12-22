@@ -3,6 +3,7 @@
 
 <p align="center">
 Automção para agiliar alguns passos repetitivos de sistema
+REGISTRO DE PLANO DE ENSINO
 </p>
 
 <p align="center">
