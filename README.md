@@ -1,8 +1,9 @@
 
 <h1 align="center"> Automação Professor Online - SEDUC </h1>
-
+<h2 align="center"> REGISTRO DE PLANO DE ENSINO </h2>
 <p align="center">
 Automção para agiliar alguns passos repetitivos de sistema
+
 </p>
 
 <p align="center">
